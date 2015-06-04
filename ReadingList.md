@@ -2,9 +2,9 @@
 ### HCI Sample papers
 
 Compiled by anonymous prof:
-Here are some notable modern papers in the flavor of HCI/crowdsourcing/systems to get you started, but it’s by no means an exhaustive list.
+*Here are some notable modern papers in the flavor of HCI/crowdsourcing/systems to get you started, but it’s by no means an exhaustive list.
 When reading through these papers, don’t worry about the fact that the subject matter differs from the ideas that we will develop together. Rather, pay attention to their presentation style and evaluation methods, and you will notice common themes emerging.
-Although this seems like a LOT of papers to read through, you should be able to skim through them pretty fast in your leisure time. They’re all fairly easy reads without a ton of formalism. If you read one paper per weekday, then you’ll be done in a month :)
+Although this seems like a LOT of papers to read through, you should be able to skim through them pretty fast in your leisure time. They’re all fairly easy reads without a ton of formalism. If you read one paper per weekday, then you’ll be done in a month :)*
 
 There are five main groups of top people who work in the area that we do, and here are their most notable papers:
 
@@ -41,8 +41,8 @@ There are five main groups of top people who work in the area that we do, and he
 ### SE Sample papers
 
 Compiled by Andy Ko:
-Below is a list of papers that have been influential in my thinking and research at the intersection of HCI, Software Engineering, and Computing Education. I mostly use this list for new students who join my lab, so it also includes some of my own publications or former students' publications, because they represent the type of research that I enjoy doing.
-This list is by no means complete, and I'll obviously continue to add to it. If you know of something that's been influential to you in this research area, send it my way!
+*Below is a list of papers that have been influential in my thinking and research at the intersection of HCI, Software Engineering, and Computing Education. I mostly use this list for new students who join my lab, so it also includes some of my own publications or former students' publications, because they represent the type of research that I enjoy doing.
+This list is by no means complete, and I'll obviously continue to add to it. If you know of something that's been influential to you in this research area, send it my way!*
 
 ##### Program Understanding
 
