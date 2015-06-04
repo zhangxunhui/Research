@@ -87,6 +87,9 @@ This list is by no means complete, and I'll obviously continue to add to it. If 
 
 * Direct manipulation Interfaces. Hutchins, E., Hollan, J. D., & Norman, D.A. Human-Computer Interaction, 2002.
 * Principles of mixed-initiative user interfaces. Horvitz, E. ACM Conference on Human Factors in Computing Systems, 1999.
+
+##### Methods
+
 * A Practical Guide to Controlled Experiments of Software Engineering Tools with Human Participants, Ko, A.J., LaToza, T., Burnett, M. M. Empirical Software Engineering, 2013.
 * Evaluating User Interface Systems Research. Olsen, D. ACM Symposium on User Interface Software and Technology, 2007
 * Usability evaluation considered harmful (some of the time). Greenberg, S. and Buxton, B. CHI 2008.
