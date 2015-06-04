@@ -83,7 +83,7 @@ This list is by no means complete, and I'll obviously continue to add to it. If 
 * Design Patterns: Elements of Reusable Object-Oriented Software. E. Gamma, R. Helm, R. Johnson, J. Vlissides. Addison-Wesley, 1995
 * N Degrees of Separation: Multi-Dimensional Separation of Concerns. Peri Tarr, Harold Ossher, William Harrison, and Stanley M Sutton. ICSE 1999.
 
-### HCI
+##### HCI
 
 * Direct manipulation Interfaces. Hutchins, E., Hollan, J. D., & Norman, D.A. Human-Computer Interaction, 2002.
 * Principles of mixed-initiative user interfaces. Horvitz, E. ACM Conference on Human Factors in Computing Systems, 1999.
@@ -91,7 +91,7 @@ This list is by no means complete, and I'll obviously continue to add to it. If 
 * Evaluating User Interface Systems Research. Olsen, D. ACM Symposium on User Interface Software and Technology, 2007
 * Usability evaluation considered harmful (some of the time). Greenberg, S. and Buxton, B. CHI 2008.
 
-### Theory
+##### Theory
 
 * A behavioral model of rational choice. Simon, H. A. The Quarterly Journal of Economics, 69(1), 99-118, 1995.
 * Grounding in communication. Clark, H., & Brennan, S. Perspectives on Socially Shared Cognition, 1999.
