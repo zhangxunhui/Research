@@ -1,3 +1,4 @@
+* Everything methods in SE, by [Barbara Kitchenham](http://dblp.uni-trier.de/pers/hd/k/Kitchenham:Barbara_A=).
 
 ### HCI Sample papers
 
@@ -5,8 +6,6 @@ Compiled by anonymous prof:
 *Here are some notable modern papers in the flavor of HCI/crowdsourcing/systems to get you started, but it’s by no means an exhaustive list.
 When reading through these papers, don’t worry about the fact that the subject matter differs from the ideas that we will develop together. Rather, pay attention to their presentation style and evaluation methods, and you will notice common themes emerging.
 Although this seems like a LOT of papers to read through, you should be able to skim through them pretty fast in your leisure time. They’re all fairly easy reads without a ton of formalism. If you read one paper per weekday, then you’ll be done in a month :)*
-
-There are five main groups of top people who work in the area that we do, and here are their most notable papers:
 
 ##### Jeff Bigham’s group at University of Rochester (and now CMU):
 * VizWiz: http://www.cs.rochester.edu/hci/pubs/pdfs/vizwiz.pdf
