@@ -1,4 +1,7 @@
+### Parnin
+
 * Everything methods in SE, by [Barbara Kitchenham](http://dblp.uni-trier.de/pers/hd/k/Kitchenham:Barbara_A=).
+* E. Miller, J. Cohen; [An Integrative Theory Of Prefrontal Cortex Function](http://matt.colorado.edu/teaching/highcog/readings/mc1.pdf)
 
 ### HCI Sample papers
 
