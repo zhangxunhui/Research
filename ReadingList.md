@@ -104,3 +104,8 @@ This list is by no means complete, and I'll obviously continue to add to it. If 
 * First steps in programming: a rationale for attention investment models. Blackwell, A. Visual Languages and Human-Centric Computing, 2008
 * Situated Learning: Legitimate Peripheral Participation. Lave, Jean; Wenger, Etienne. Cambridge: Cambridge University Press, 1991.
 * How Do Committees Invent? Melvin E. Conway. Datamation, vol. 14, pp. 28â€“31, Apr. 1968.
+
+Other:
+Maybe CSCL literature, particular on learning theories like situated learning (Lave & Wenger, 1991), affinity spaces (Gee, 2003), productive failure (Kapur, 2008), and identity development (Nasir and Hand, 2008).
+
+
