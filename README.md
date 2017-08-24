@@ -9,9 +9,10 @@
 
 ### Affect
 
+* [HappyFace: Identifying and Predicting Frustrating Obstacles for Learning Programming at Scale](https://github.com/alt-code/Research/raw/master/pubs/happy-face-VLHCC17.pdf)
+
 * [Exploring Causes of Frustration for Software Developers](https://github.com/alt-code/Research/raw/master/pubs/chase2015.pdf)
 
-* [HappyFace: Identifying and Predicting Frustrating Obstacles for Learning Programming at Scale](https://github.com/alt-code/Research/raw/master/pubs/happy-face-VLHCC17.pdf)
 
 ### Interactions
 
