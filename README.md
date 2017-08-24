@@ -22,6 +22,6 @@
 
 * [Selfies as Social Movements: Influences on Participation and Perceived Impact on Stereotypes](https://cscw.acm.org/2018/index.html)
 
-* [Someone Like Me: How Does Peer Parity Influence Participation of Women ON Stack Overflow?](https://github.com/alt-code/Research/raw/master/pubs/peer-parity-VLHCC17.pdf)
+* [Someone Like Me: How Does Peer Parity Influence Participation of Women On Stack Overflow?](https://github.com/alt-code/Research/raw/master/pubs/peer-parity-VLHCC17.pdf)
 
 * [Paradise Unplugged: Identifying Barreirs for Female Participation on Stack Overflow](https://github.com/alt-code/Research/raw/master/pubs/FSE2016.pdf)
