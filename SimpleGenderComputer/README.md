@@ -6,11 +6,11 @@
 
 ### Then generate a set of names to compare:
 
-`python getGender.py` 
+  `python getGender.py` 
 
 Inside this file you will see:
     
-    gc = SimpleGenderComputer('nameLists')` 
+    gc = SimpleGenderComputer('nameLists') 
 
 ----
 ### Publication
