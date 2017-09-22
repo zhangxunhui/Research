@@ -10,9 +10,11 @@ from simpleGenderComputer import SimpleGenderComputer
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+print "Started"
 #connect to database
-con = MySQLdb.connect(host='152.14.88.33', user='alisse', passwd='alt-code-326',
-db='StackDB', local_infile=1, use_unicode=True, charset='utf8mb4')
+con = MySQLdb.connect(host=os.environ['STACK_DB_LOC'], user=os.environ['STACK_DB_USER'], passwd=os.environ['STACK_DB_PASS'], db=os.environ['STACK_DB'], local_infile=1, use_unicode=True, charset='utf8mb4')
+
+print "Sucessfully connected"
 
 #get genderComputer function to find gender of user
 sys.path.append(os.path.abspath('lib/genderComputer/'))

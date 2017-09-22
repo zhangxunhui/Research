@@ -1,0 +1,3 @@
+## Removing auxillary files:
+userNew.csv
+*.pyc
