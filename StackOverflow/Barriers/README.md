@@ -1,4 +1,4 @@
-This folder contains all the contents used during the StackOverflow Barriers experiment.
+This folder contains all the contents used during the Stack Overflow Barriers experiment.
 
 - [Diverging Stacked Barchart of Barriers](https://github.com/alt-code/Research/blob/master/StackOverflow/Barriers/OpenRating_ranked.pdf)
 
