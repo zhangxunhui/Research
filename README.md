@@ -26,3 +26,7 @@
 * [Someone Like Me: How Does Peer Parity Influence Participation of Women On Stack Overflow?](https://github.com/alt-code/Research/raw/master/pubs/peer-parity-VLHCC17.pdf)
 
 * [Paradise Unplugged: Identifying Barreirs for Female Participation on Stack Overflow](https://github.com/alt-code/Research/raw/master/pubs/FSE2016.pdf)
+
+### Rapid Expertise
+
+* [It's Like Python But: Towards Supporting Transfer of Programming Language Knowledge](https://github.com/alt-code/Research/raw/master/pubs/transfer-tutor-VLHCC18.pdf)
