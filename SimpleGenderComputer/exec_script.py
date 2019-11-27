@@ -44,6 +44,16 @@ cur = db.cursor()
 # create user_genders table
 create_table(cur, "gender_SimpleGenderComputer")
 
+# read username from ghtorrent
+usernameDict = {}
+cur.execute("select login, name from users_private")
+items = cur.fetchall()
+for item in items:
+    login = item[0]
+    name = item[1]
+    usernameDict[login] = name
+logging.info("finish reading table users_private")
+
 # read users table from ghtorrent
 cur.execute("select max(user_id) from gender_SimpleGenderComputer")
 max_user_id = cur.fetchone()
@@ -52,13 +62,18 @@ if max_user_id[0] is None:
 else:
     max_user_id = max_user_id[0]
 print max_user_id
-cur.execute("select id, name, location "
+cur.execute("select id, login, location "
             "from users "
             "where id > %s", (max_user_id,))
 users = cur.fetchall()
 for user in users:
     id = user[0]
-    name = user[1]
+    login = user[1]
+    if usernameDict.has_key(login) == False:
+        name = None
+    else:
+        name = usernameDict[login]
+
     if name is None or len(name.strip()) == 0:
         gender = None
         cur.execute("insert into gender_SimpleGenderComputer (user_id, gender) values (%s, %s)", (id, None))
@@ -68,10 +83,10 @@ for user in users:
         try:
             gender = gc.simpleLookup(firstName)
             cur.execute("insert into gender_SimpleGenderComputer (user_id, gender) values (%s, %s)", (id, gender))
+            logging.info("user %d: %s; %s - %s" % (id, name, location, gender))
         except Exception as e:
             # there are some special characters that cannot be regarded
             cur.execute("insert into gender_SimpleGenderComputer (user_id, gender) values (%s, %s)", (id, None))
-    logging.info("user %d: %s; %s - %s" % (id, name, location, gender))
     if id % 10000 == 0:
         db.commit()
 db.commit()
