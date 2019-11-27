@@ -7,7 +7,7 @@ sys.setdefaultencoding('utf-8')
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
-gc = SimpleGenderComputer('./nameLists')
+gc = SimpleGenderComputer('./namelists')
 
 
 def create_table(cur, tableName):
